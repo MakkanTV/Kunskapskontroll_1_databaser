@@ -1,0 +1,52 @@
+[
+  {
+    "d.director_name": "M. Night Shyamalan",
+    "num_movies": 169,
+    "total_score": 1015.8000000000001
+  },
+  {
+    "d.director_name": "Richard Donner",
+    "num_movies": 149,
+    "total_score": 915.4999999999999
+  },
+  {
+    "d.director_name": "Edward Zwick",
+    "num_movies": 142,
+    "total_score": 889.6000000000001
+  },
+  {
+    "d.director_name": "Ang Lee",
+    "num_movies": 140,
+    "total_score": 884.2000000000003
+  },
+  {
+    "d.director_name": "Dean Parisot",
+    "num_movies": 135,
+    "total_score": 817.9999999999993
+  },
+  {
+    "d.director_name": "Rob Minkoff",
+    "num_movies": 130,
+    "total_score": 752.1999999999996
+  },
+  {
+    "d.director_name": "Alex Proyas",
+    "num_movies": 128,
+    "total_score": 787.9000000000001
+  },
+  {
+    "d.director_name": "Lee Tamahori",
+    "num_movies": 127,
+    "total_score": 761.0
+  },
+  {
+    "d.director_name": "Alessandro Carloni",
+    "num_movies": 121,
+    "total_score": 719.6000000000004
+  },
+  {
+    "d.director_name": "Peter Ramsey",
+    "num_movies": 112,
+    "total_score": 692.2000000000002
+  }
+]
